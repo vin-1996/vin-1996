@@ -1,6 +1,6 @@
 {
-  "name": "excel automation",
-  "projectId": "3851ba53-3a64-492a-b28c-dd2eec07a0f3",
+  "name": "git_pull",
+  "projectId": "4cf157e7-cf1d-4bce-af9e-471230bd7f7e",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -51,7 +51,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "00c4f52c-e672-49a7-9bfc-b4579be38d2e",
+      "uniqueId": "5583d936-09ae-4884-89a6-eecb173ba107",
       "input": [],
       "output": []
     }
