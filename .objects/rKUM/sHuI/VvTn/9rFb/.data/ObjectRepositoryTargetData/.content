@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="duYwS6yOb02CI8liTqllnw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://free-braindumps.com/uipath/free-uirpa-braindumps.html?p=10" CvElementArea="231, 424, 138, 49" CvTextArea="249, 438, 101, 18" CvTextArgument="Next Question" CvType="Button" DesignTimeRectangle="233, 425, 134, 46" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'Next Question'" FullSelectorArgument="&lt;webctrl aaname='Next Question                     ' aria-role='button' parentid='collapse_105' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Next Question                     ' aria-role='button' parentid='collapse_105' tag='A' type='' class='collapsed btn btn-default btn-lg' check:innerText='Next Question' /&gt;" Guid="642681f3-07ba-46ab-8425-cc5284b530e6" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Free UiRPA Exam braindumps download (UiRPA exam dumps Free) - Page: 10' /&gt;" SearchSteps="FuzzySelector, CV" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="38bff75ea59250b224cb16677ce22c5e.png" xmlns="">0xEV3LVTZ_UelkCtewpJsYA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
